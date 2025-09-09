@@ -12,6 +12,8 @@ public abstract class Trabajador{
 		this.cargo = cargo;
 		this.nacionalidad = nacionalidad;
 	}
+	
+	
 	public String getNombre() {
 		return nombre;
 	}
